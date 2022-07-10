@@ -1,4 +1,4 @@
-# Menu responsivo ✅
+# Menu responsivo 
 Esse é um menu feito no módulo de css avançado do Curso DevQuest.
 
 ## Tecnologias
